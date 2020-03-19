@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\WorldFinder\WorldFinder\bin\Debug\netcoreapp3.1\WorldFinder.exe
+C:\Users\user\source\repos\WorldFinder\WorldFinder\bin\Debug\netcoreapp3.1\WorldFinder.deps.json
+C:\Users\user\source\repos\WorldFinder\WorldFinder\bin\Debug\netcoreapp3.1\WorldFinder.runtimeconfig.json
+C:\Users\user\source\repos\WorldFinder\WorldFinder\bin\Debug\netcoreapp3.1\WorldFinder.runtimeconfig.dev.json
+C:\Users\user\source\repos\WorldFinder\WorldFinder\bin\Debug\netcoreapp3.1\WorldFinder.dll
+C:\Users\user\source\repos\WorldFinder\WorldFinder\bin\Debug\netcoreapp3.1\WorldFinder.pdb
+C:\Users\user\source\repos\WorldFinder\WorldFinder\obj\Debug\netcoreapp3.1\WorldFinder.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WorldFinder\WorldFinder\obj\Debug\netcoreapp3.1\WorldFinder.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WorldFinder\WorldFinder\obj\Debug\netcoreapp3.1\WorldFinder.AssemblyInfo.cs
+C:\Users\user\source\repos\WorldFinder\WorldFinder\obj\Debug\netcoreapp3.1\WorldFinder.dll
+C:\Users\user\source\repos\WorldFinder\WorldFinder\obj\Debug\netcoreapp3.1\WorldFinder.pdb
